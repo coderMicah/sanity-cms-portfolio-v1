@@ -32,7 +32,7 @@ export default function Home({
       <main>
         
         <>
-          <Header socials={socials} />
+//           <Header socials={socials} />
           <main className="snap-y snap-mandatory overflow-hidden z-0 scrollbar scrollbar-track-400/20">
             <section id="hero" className="snap-start">
               <Hero pageInfo={pageInfo} />
